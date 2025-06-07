@@ -1,3 +1,2 @@
-function dataHora(){
-        document.getElementById('demo').innerHTML = Date();
-}
+var nome = 'Daniel'
+nome
